@@ -1,6 +1,6 @@
 {
   "name": "@labelify/web",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
   "files": [
     "dist",
@@ -29,6 +29,7 @@
     "@labelify/tags": "workspace:../tags/labelify-tags || latest",
     "@mantine/core": "^8.3.5",
     "@mantine/hooks": "^8.3.5",
+    "@tabler/icons-react": "^3.35.0",
     "@types/node": "^24.6.0",
     "@types/react": "^19.1.16",
     "@types/react-dom": "^19.1.9",
