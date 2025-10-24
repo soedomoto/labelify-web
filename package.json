@@ -2,6 +2,10 @@
   "name": "@labelify/web",
   "version": "0.0.1",
   "type": "module",
+  "files": [
+    "dist",
+    "bin/cli.cjs"
+  ],
   "bin": {
     "@labelify/web": "./bin/cli.cjs"
   },
